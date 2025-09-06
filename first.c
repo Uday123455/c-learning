@@ -1,8 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int c
-    ;
+    int c;
     printf("    /\\\n");
     printf("   /  \\\n");
     printf("  /    \\\n");
